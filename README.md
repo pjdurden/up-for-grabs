@@ -24,3 +24,4 @@ Each entry has an `UP-FOR-GRABS.md` that says what the idea is, what exists, wha
 | [decided-ui](https://github.com/pjdurden/decided-ui) | The model chooses among interfaces you wrote. Decided UI, not generative UI. | code | 2026-11-12 |
 | [jevkit-js](https://github.com/pjdurden/jevkit-js) | jevkit for JavaScript/TypeScript: static linter and shared record format for building on TypeSafe's Jev (System One) model. Unofficial. | code | 2026-11-12 |
 | [jevkit-py](https://github.com/pjdurden/jevkit-py) | jevkit for Python: static linter and shared record format for building on TypeSafe's Jev (System One) model. Unofficial. | code | 2026-11-12 |
+| [nanoserve](https://github.com/pjdurden/nanoserve) | An AI inference engine from scratch. Like nanoGPT, but for serving. | code | 2026-11-12 |
