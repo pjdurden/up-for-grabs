@@ -31,3 +31,4 @@ Each entry has an `UP-FOR-GRABS.md` that says what the idea is, what exists, wha
 | [cassette-fn](https://github.com/pjdurden/cassette-fn) | Record and replay LLM calls at the function boundary, so your tools still execute on replay | code | 2026-11-12 |
 | [apply-edit-block](https://github.com/pjdurden/apply-edit-block) | Apply LLM search/replace edit blocks that do not match exactly, with a five-strategy fallback ladder | code | 2026-11-12 |
 | [claude-skills-live](https://github.com/pjdurden/claude-skills-live) | Curated, continuously verified index of Claude Code and Agent Skills tooling. Every entry re-checked daily; anything archived, deleted or 90 days quiet is flagged and delisted. | code | 2026-11-12 |
+| [degen-pnl-card](https://github.com/pjdurden/degen-pnl-card) | Paste a Solana wallet, get a shareable PnL card from its on-chain swap history. Read-only, bring-your-own-key. | code | 2026-11-12 |
