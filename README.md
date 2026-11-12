@@ -26,3 +26,4 @@ Each entry has an `UP-FOR-GRABS.md` that says what the idea is, what exists, wha
 | [jevkit-py](https://github.com/pjdurden/jevkit-py) | jevkit for Python: static linter and shared record format for building on TypeSafe's Jev (System One) model. Unofficial. | code | 2026-11-12 |
 | [nanoserve](https://github.com/pjdurden/nanoserve) | An AI inference engine from scratch. Like nanoGPT, but for serving. | code | 2026-11-12 |
 | [cmd-risk](https://github.com/pjdurden/cmd-risk) | Heuristic risk classifier for shell commands, for deciding when an agent should ask a human | code | 2026-11-12 |
+| [prompt-cache-fit](https://github.com/pjdurden/prompt-cache-fit) | Reorder prompt blocks least-variable-first for prefix cache reuse, and measure the hit rate | code | 2026-11-12 |
