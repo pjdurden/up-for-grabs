@@ -27,3 +27,4 @@ Each entry has an `UP-FOR-GRABS.md` that says what the idea is, what exists, wha
 | [nanoserve](https://github.com/pjdurden/nanoserve) | An AI inference engine from scratch. Like nanoGPT, but for serving. | code | 2026-11-12 |
 | [cmd-risk](https://github.com/pjdurden/cmd-risk) | Heuristic risk classifier for shell commands, for deciding when an agent should ask a human | code | 2026-11-12 |
 | [prompt-cache-fit](https://github.com/pjdurden/prompt-cache-fit) | Reorder prompt blocks least-variable-first for prefix cache reuse, and measure the hit rate | code | 2026-11-12 |
+| [ctx-compact](https://github.com/pjdurden/ctx-compact) | Framework-neutral conversation compaction that never orphans a tool result | code | 2026-11-12 |
