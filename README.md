@@ -22,3 +22,4 @@ Each entry has an `UP-FOR-GRABS.md` that says what the idea is, what exists, wha
 | [cache-aware-request-planning](https://github.com/pjdurden/cache-aware-request-planning) | Cache-aware client-side request planning for black-box LLM APIs: lossless billed-cost reduction by aligning requests to the provider prompt cache. Research artifact + paper draft. | code | 2026-11-12 |
 | [genui-grammar](https://github.com/pjdurden/genui-grammar) | Constrained-decoding grammar compiler for generative UI: compiles a component schema into a grammar so an LLM can only emit valid UI trees | code | 2026-11-12 |
 | [decided-ui](https://github.com/pjdurden/decided-ui) | The model chooses among interfaces you wrote. Decided UI, not generative UI. | code | 2026-11-12 |
+| [jevkit-js](https://github.com/pjdurden/jevkit-js) | jevkit for JavaScript/TypeScript: static linter and shared record format for building on TypeSafe's Jev (System One) model. Unofficial. | code | 2026-11-12 |
