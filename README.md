@@ -29,3 +29,4 @@ Each entry has an `UP-FOR-GRABS.md` that says what the idea is, what exists, wha
 | [prompt-cache-fit](https://github.com/pjdurden/prompt-cache-fit) | Reorder prompt blocks least-variable-first for prefix cache reuse, and measure the hit rate | code | 2026-11-12 |
 | [ctx-compact](https://github.com/pjdurden/ctx-compact) | Framework-neutral conversation compaction that never orphans a tool result | code | 2026-11-12 |
 | [cassette-fn](https://github.com/pjdurden/cassette-fn) | Record and replay LLM calls at the function boundary, so your tools still execute on replay | code | 2026-11-12 |
+| [apply-edit-block](https://github.com/pjdurden/apply-edit-block) | Apply LLM search/replace edit blocks that do not match exactly, with a five-strategy fallback ladder | code | 2026-11-12 |
